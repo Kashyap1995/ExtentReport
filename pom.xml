@@ -8,6 +8,14 @@
   <name>Com.ExtentReportfirst</name>
  <url>http://maven.apache.org</url>
   
+	  <distributionManagement>
+   <repository>
+      <id>ExtentReport</id>
+      <name>ExtentReport</name>
+      <url>https://github.com/Kashyap1995/ExtentReport.git</url>
+   </repository>
+   
+</distributionManagement>
   
   <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
